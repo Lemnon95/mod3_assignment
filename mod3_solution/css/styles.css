@@ -1,7 +1,7 @@
 body {
 	font-size: 16px;
   	color: #fff;
-  	background-color: #61122f;
+  	background-color: #0073e6;
 }
 
 /*** HEADER ***/
@@ -43,7 +43,8 @@ body {
 }
 
 #wrapper {
-	background-color: #0077b3;
+	background-color: #80bfff;
+	color: #001a33;
 }
 
 
@@ -55,4 +56,33 @@ hr {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	width: 97%;
+}
+
+li span {
+	font-weight: bold;
+}
+
+/***** MAIN CONTENT *****/
+
+#heading {
+	margin-top: -15px;
+	margin-bottom: 40px;
+}
+
+h2 {
+	font-family: 'Ranchers', cursive;
+}
+
+#chicken {
+	background-color: #80bfff;
+	color: #001a33;
+}
+
+#title {
+	margin-top: -10px;
+	font-family: 'Ranchers', cursive;
+}
+
+#content-text {
+	padding: 0px 5px 0px;
 }
