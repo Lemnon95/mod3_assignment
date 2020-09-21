@@ -86,3 +86,12 @@ h2 {
 #content-text {
 	padding: 0px 5px 0px;
 }
+
+
+/***** Mobile only ****/
+
+@media (max-width: 768px){
+	#main-content {
+		width: 80%;
+	}
+}
